@@ -1,5 +1,7 @@
 # Need Support?
-https://discord.gg/Z9Mxu72zZ6
+
+[![Need Support?](https://i.imgur.com/fqKYWeV.png)](https://discord.gg/Z9Mxu72zZ6)
+
 # How to install:
 Drag TenCodes to your resources folder and write start TenCodes in your server cfg.
 
